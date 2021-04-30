@@ -7,7 +7,7 @@ ___
 [Firefox](https://home.firefoxchina.cn/)
 ___
 #### picture:
-![local pic](./1431679396155372.jpg "local pic")
+![local pic](./2937d746ae9dc36b6cf56ffca5efa474.jpeg "local pic")
 ___
 ![internet pic](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F52146128011fa20226309fbc3f58dd1fed03318ff40b-k5NN8k_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622348031&t=f021b78df2cdfa3cdd1d0f98af9c7533 "internet pic")
 ___
